@@ -17,7 +17,7 @@ Nota: para realizar el inciso b, el vector debe recorrerse una única vez.
 
 program Hello;
     const
-        dimf=3;
+        dimf=200;
     type
         registroViajes = record
             dia:integer;monto:real;distancia:real; end;
